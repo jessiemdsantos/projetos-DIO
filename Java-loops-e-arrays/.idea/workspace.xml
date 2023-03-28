@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca23b8ee-9d7f-481e-9579-6da12418c494" name="Changes" comment="" />
+    <list default="true" id="2082de7a-8d16-4151-895d-7fd5784b30db" name="Changes" comment="loops e arrays" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="2NXJnCs1sGnNCn1N0QDLRQ4aukg" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NXK3BgVB2bJ4saBIGpfZALTCP7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,31 +34,106 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/beesh/Desktop/projetos-DIO/Java-loops-e-arrays"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+  <component name="RunManager" selected="Application.teste">
+    <configuration name="Ex01_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.arrays.Ex01_OrdemInversa" />
+      <module name="Java-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.exercicios.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex02_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.arrays.Ex02_Consoantes" />
+      <module name="Java-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.exercicios.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex03_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.arrays.Ex03_NumerosAleatorios" />
+      <module name="Java-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.exercicios.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex04_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.arrays.Ex04_ArrayMultidimensional" />
+      <module name="Java-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.exercicios.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.exercicios.arrays.teste" />
+      <module name="Java-loops-e-arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.exercicios.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.teste" />
+        <item itemvalue="Application.Ex04_ArrayMultidimensional" />
+        <item itemvalue="Application.Ex03_NumerosAleatorios" />
+        <item itemvalue="Application.Ex02_Consoantes" />
+        <item itemvalue="Application.Ex01_OrdemInversa" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca23b8ee-9d7f-481e-9579-6da12418c494" name="Changes" comment="" />
-      <created>1679804658074</created>
+      <changelist id="2082de7a-8d16-4151-895d-7fd5784b30db" name="Changes" comment="" />
+      <created>1679804785471</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679804658074</updated>
+      <updated>1679804785471</updated>
     </task>
+    <task id="LOCAL-00001" summary="loops e arrays">
+      <created>1679816961810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679816961810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="loops e arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops e arrays" />
   </component>
 </project>
