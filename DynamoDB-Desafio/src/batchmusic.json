@@ -1,0 +1,85 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "Intro : Boy Meets Evil"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "Blood Sweat & Tears"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "Lost"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "BTS Cypher 4"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "Am I Wrong"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "21st Century Girl"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "2! 3!"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "BTS"},
+                  "SongTitle": {"S": "Interlude : Wings"},
+                  "AlbumTitle": {"S": "Wings"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        }
+        
+      ]
+}
